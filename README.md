@@ -1,1 +1,0 @@
-# KannaKim.github.io
