@@ -7,7 +7,6 @@ permalink: /contributors/
 <h1>Project Contributors</h1>
 
 <!-- Team Member 1 (ALEX) -->
-<!-- Team Member 1 (ALEX) -->
 <h2>Alexander Dyakin</h2>
 <ul>
   <li><strong>Role:</strong> Awesome Sauce</li>
